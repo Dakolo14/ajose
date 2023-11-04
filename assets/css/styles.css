@@ -1249,12 +1249,12 @@ body.dark-theme {
 
   .contact__data {
     width: 350px;
-    padding: 4rem 1.5rem;
+    padding: 4rem 2rem;
     margin-inline: auto;
   }
 
   .contact__container {
-    grid-template-columns: 500px;
+    grid-template-columns: 400px;
     justify-content: center;
   }
 
