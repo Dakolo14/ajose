@@ -460,7 +460,7 @@ body.dark-theme {
 }
 
 .home__social {
-  height: fit-content;
+  height: auto;
   position: absolute;
   left: -3rem;
   top: 0;
