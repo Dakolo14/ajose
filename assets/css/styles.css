@@ -474,7 +474,7 @@ body.dark-theme {
   background-color: var(--black-color-light);
   color: var(--white-color);
   font-size: 1.25rem;
-  padding: 6px;
+  padding: 2px;
   display: grid;
   place-items: center;
   transition: background-color .3s;
