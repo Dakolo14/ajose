@@ -1302,6 +1302,12 @@ body.dark-theme {
 
   .projects__container {
     grid-template-columns: repeat(2, 350px);
+    justify-content: center;
+  }
+
+  .contact__container {
+    margin-inline: 2rem;
+    margin-bottom: 2rem;
   }
 
 }
@@ -1628,6 +1634,7 @@ body.dark-theme {
     grid-template-columns: 440px 670px;
     grid-template-rows: initial;
     padding-bottom: 2rem;
+    justify-content: center;
   }
 
   .contact__mail {
